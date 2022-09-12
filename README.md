@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning how to code better
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...junhao_95@hotmail.com
 
 <!---
 Learningtocodejh/Learningtocodejh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
